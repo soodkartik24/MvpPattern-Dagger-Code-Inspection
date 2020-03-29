@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tx_18">18sp</dimen>
+    <dimen name="tx_20">20sp</dimen>
+    <dimen name="tx_22">22sp</dimen>
+    <dimen name="tx_24">24sp</dimen>
+    <dimen name="tx_26">26sp</dimen>
+    <dimen name="tx_30">30sp</dimen>
+
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+
+
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+
+    <dimen name="radius_16">16dp</dimen>
+    <dimen name="radius_12">12dp</dimen>
+    <dimen name="radius_8">8dp</dimen>
+    <dimen name="radius_6">6dp</dimen>
+    <dimen name="radius_4">4dp</dimen>
+
+    <dimen name="width_1">1dp</dimen>
+    <dimen name="width_2">2dp</dimen>
+
+    <dimen name="height_point1">.1dp</dimen>
+    <dimen name="height_point2">.2dp</dimen>
+    <dimen name="height_24">24dp</dimen>
+    <dimen name="height_40">40dp</dimen>
+</resources>

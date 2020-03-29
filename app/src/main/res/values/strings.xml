@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Mvp Dagger App</string>
+    <string name="email_text">Email</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="mobile_number_text">Mobile Number</string>
+    <string name="dob_text">Date Of Birth</string>
+    <string name="country_text">Country</string>
+    <string name="city_text">City</string>
+    <string name="state_text">State</string>
+    <string name="submit_text">Submit</string>
+    <string name="internal_server_error">Internal server error</string>
+    <string name="invalid_url">Invalid Url!</string>
+    <string name="unAuthorized_access">UnAuthorized Access</string>
+    <string name="ok_message">OK</string>
+    <string name="error_text">Error</string>
+    <string name="welcome_app_text">Welcome To App</string>
+    <string name="register_text">Don\'t have an Account? SignUp</string>
+    <string name="back_login">Back to Login</string>
+    <string name="next_button">Next</string>
+    <string name="signuo_text">Signup</string>
+    <string name="pincode_text">Pincode</string>
+    <string name="adhaar_card">Adhaar Card Number</string>
+    <string name="customer_name">Name</string>
+    <string name="gender_text">Gender</string>
+
+
+    <!--    Error Messages-->
+    <string name="enter_valid_username">Please enter valid username.</string>
+    <string name="enter_valid_password">Please enter valid password.</string>
+    <string name="empty_password_msg">Password can\'t be empty.</string>
+    <string name="empty_adhaarcard__msg">Adhaar Card Number can\'t be empty.</string>
+    <string name="enter_valid_pincode">Please enter pincode.</string>
+    <string name="enter_valid_state">Please enter your state.</string>
+    <string name="enter_valid_dob">Please enter your date of birth.</string>
+    <string name="enter_customer_name">Please enter your name.</string>
+    <string name="enter_valid_mbno">Please enter valid mobile number.</string>
+    <string name="enter_valid_email">Please enter valid email.</string>
+    <string name="enter_country">Please enter country.</string>
+    <string name="enter_city">Please enter city.</string>
+    <string name="select_gender">Please select gender.</string>
+    <string name="check_internet_connection">The internet connection appears to be offline. Please check your internet connection.</string>
+
+    <string-array name="gender_array">
+        <item>None</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Trans-gender</item>
+    </string-array>
+</resources>
